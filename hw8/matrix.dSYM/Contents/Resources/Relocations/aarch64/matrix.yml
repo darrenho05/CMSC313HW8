@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/darrenho/Documents/cmsc313/hw8/matrix'
+relocations:     []
+...
